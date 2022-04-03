@@ -7,5 +7,5 @@ I'm a C++/Python developer and open-source enthusiast. The last few years, I've 
 - 🌱 I’m currently learning C++20, technologies like K8S, S3, Grafana, InfluxDB. Mostly I learn that I need for my current projects. 
 - 👯 I’m looking to collaborate on [Reduct Storage](https://github.com/reduct-storage/reduct-storage) and ecosystem around it (guides, SDKs in different languages, CLI, and web consoles). I'd appreciate any help.
 - 💬 Ask me about C++, Python, bind11, wavelet transformation, Industry 4.0 
-- 📫 How to reach me: you find my Tweeter and LinkedIn in my GitHub profile.
+- 📫 How to reach me: you can find my Tweeter and LinkedIn in my GitHub profile.
 - 😄 Pronouns: I don't care
