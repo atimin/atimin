@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a C++/Python developer and open-source enthusiast. The last few years, I've worked as a lead developer or/and product manager, but I'm still deep in code. 
+I'm a C++/Python developer and open-source enthusiast. For the last few years, I've worked as a lead developer or/and product manager, but I'm still deep in coding. 
 
 - 🔭 I’m currently working on [Reduct Storage](https://reduct-storage.dev). This is a time series database for big blobs (sound, pictures, models) which may be useful for AI/ML applications. As an employee at [PANDA GmbH](https://panda.technology) I'm developing an C++/Python open-source library [WaveletBuffer](https://github.com/panda-official/WaveletBuffer) for data compression.
 
