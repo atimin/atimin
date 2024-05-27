@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I'm a C++/Python developer and open-source enthusiast. For the last few years, I've worked as a lead developer or/and product manager, but I'm still deep in coding. 
+I'm a Rust/C++/Python developer and open source enthusiast. For the last few years I've been working as a lead developer and/or product manager, but I'm still deeply involved in coding.
 
-- 🔭 I’m currently working on [ReductStore](https://reduct.store). This is a time series database for storing and managing large amounts of blob data. As an employee at [PANDA GmbH](https://panda.technology) I'm developing an C++/Python open-source library [WaveletBuffer](https://github.com/panda-official/WaveletBuffer) for data compression.
-
-- 🌱 I’m currently learning Rust. 
+- 🔭 I’m currently working on [ReductStore](https://reduct.store). This is a time series database for storing and managing large amounts of blob data.
 - 👯 I’m looking for collaborating on [ReductStore](https://github.com/reductstore/reductstore) and ecosystem around it (guides, SDKs in different languages, CLI, and web consoles). I'd appreciate any help.
-- 💬 Ask me about C++, Python, bind11, wavelet transformation, Industry 4.0 
+- 💬 Ask me about Rust, C++, Python, bind11, wavelet transformation, Industry 4.0 
 - 📫 How to reach me: you can find my Tweeter and LinkedIn in my GitHub profile.
 - 😄 Pronouns: He/him
 
