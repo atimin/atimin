@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I'm a Rust/C++/Python developer and open source enthusiast. For the last few years I've been working as a lead developer and/or product manager, but I'm still deeply involved in coding.
+I'm a Rust/Python developer, open-source enthusiast, and creator of [ReductStore](https://reduct.store). I enjoy building high-performance infrastructure for robotics, Industrial IoT, edge AI, and data acquisition systems.
 
-- 🔭 I’m currently working on [ReductStore](https://reduct.store). This is a time series database for storing and managing large amounts of blob data.
-- 👯 I’m looking for collaborating on [ReductStore](https://github.com/reductstore/reductstore) and ecosystem around it (guides, SDKs in different languages, CLI, and web consoles). I'd appreciate any help.
-- 💬 Ask me about Rust, C++, Python, bind11, wavelet transformation, Industry 4.0 
-- 📫 How to reach me: you can find my Tweeter and LinkedIn in my GitHub profile.
-- 😄 Pronouns: He/him
+Over the last few years, I’ve worked as a lead developer, product manager, and founder, but I’m still deeply involved in architecture, coding, documentation, and community building.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=atimin&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on [ReductStore](https://github.com/reductstore/reductstore), a high-performance time-series object store for blob data such as images, sensor data, logs, files, and ROS bags.
+- 🌱 I’m focused on edge-to-cloud data replication, robotics data pipelines, SDKs, CLI tools, and developer experience.
+- 👯 I’m looking for contributors to the ReductStore ecosystem: core database, SDKs, guides, examples, integrations, CLI tools, and web console.
+- 💬 Ask me about Rust, Python, C++, time-series storage, blob data, robotics data infrastructure, Industrial IoT, and open-source product development.
+- 📫 You can reach me via the links in my GitHub profile.
+- 😄 Pronouns: he/him
